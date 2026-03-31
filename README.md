@@ -1,2 +1,2 @@
 # the-demo
-demo 
+demo /practise
